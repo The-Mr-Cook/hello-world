@@ -1,6 +1,6 @@
 # hello-world
 
-hello Laura
+Hello Laura
 
 hello Anna
 
